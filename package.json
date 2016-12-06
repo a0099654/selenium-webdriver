@@ -1,0 +1,15 @@
+{
+  "name": "selenium-experiment",
+  "version": "1.0.0",
+  "description": "first try of selenium",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "start index.js"
+  },
+  "author": "stella widyasari",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^3.0.1"
+  }
+}
